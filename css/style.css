@@ -1,0 +1,27 @@
+*{
+  background:#EEF3F7;
+}
+
+h1{
+font-family:'Lora', serif;;
+font-size: 57px;
+color: #22272A;
+line-height: 57px;
+}
+
+p{
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+color: #22272A;
+letter-spacing: 0.2px;
+line-height: 23px;
+margin-bottom: 150px;
+}
+
+ul{
+font-family: 'Open Sans', sans-serif;
+font-size: 16px;
+color: #22272A;
+letter-spacing: 0.2px;
+line-height: 23px;
+}
